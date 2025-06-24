@@ -2,13 +2,14 @@
 
 ## Overview
 - Furthering my knowledge in C++
-- Many projects, low final products
-- Attempting to gain a good understanding of the OpenBSD codebase
+- Many projects yet no final products
 
 ## Interests
 - Low level programming
 - Embedded systems
 - Hardware architecture
+- Operating systems
+- Programming language design
 
 ## Goals
-- Become a kernel maintainer for a major kernel (whether that be one of the BSDs, Linux, or any other kernel)
+// TODO
