@@ -1,3 +1,5 @@
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arahman80)](https://github.com/arahman80/github-readme-stats)
+
 # arahman80 - Summary
 
 ## Overview
