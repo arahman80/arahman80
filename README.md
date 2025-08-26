@@ -3,15 +3,17 @@
 # arahman80 - Summary
 
 ## Overview
-- Furthering my knowledge in C++
+- Furthering my knowledge in C
 - Many projects yet no final products
 
 ## Interests
 - Low level programming
-- Embedded systems
 - Hardware architecture
 - Operating systems
 - Programming language design
+- Chess programming
 
 ## Goals
-// TODO
+- Create a fully functional chess engine with a minimum ELO of 2750 in the C programming language
+- Create my own dialect of Lisp
+- Learn how to apply low level programming knowledge to the automotive field
